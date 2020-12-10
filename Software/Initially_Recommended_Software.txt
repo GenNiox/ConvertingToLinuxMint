@@ -1,0 +1,84 @@
+So, you've made the plunge into the deep-end and crossed the point of what feels like no return.
+First-off, congratulations! You've made the jump that a lot of others were wary of prior to you.
+That takes balls, kid. ;)
+
+
+So, you've installed Linux Mint and are now wondering to yourself.. what do I do now?
+Where's my office software? Well, lemme point you to a few things to get you reacquainted and setup with the basics:
+
+Windows                         Linux Mint Equivalent
+--------------------------------=========================================
+Calculator                      Calculator (some things never change!)
+Internet Explorer/Edge          "Firefox Web Browser"
+Microsoft Office Software       "LibreOffice" software
+    Word                            "Writer"
+    Excel                           "Calc"
+    PowerPoint                      "Impress"
+    Access                          "Base"
+
+
+
+
+So now you're thinking: "Gen, that list is great.. but what about (fill in the blank software)?"
+I hear ya! I asked the same questions at one point.. and I'll bring you up-to-speed on what I know.
+
+Here's the deal, the software listed above is ONLY what Linux Mint COMES with.. that doesn't encompass what you CAN install ONTO Linux Mint and run. Here's how ya do it:
+
+There's a template that you can follow.. and lucky for you, all of it can be done with the GUI (Graphical User Interface) via mouse and keyboard.. not JUST a keyboard and the (understandably) intimidating black screen.
+
+There's magical software that you can use generally called "Software Manager" that does the hard work for you
+and makes the average Joe's life a LOT easier when it comes to finding the right software in the right places!
+
+Open Software Manager. From there, you'll see a search button in the top-right. This is your gateway to the wonderful world of the Ubuntu repositories. I should note to you here that Software Manager only accesses repositories supplied (and enabled) to you by the initial install until you add custom ones (called PPAs) or expand the range (into the multiverse or universe) into the list. There's a multitude of guides for all of that if you ever get that far.. but I can almost guarantee you, the farthest you'll probably ever have to go is Software Manager.
+
+
+That said, there's some software that hasn't changed or had it's name changed
+when you swapped over; here's a couple to get you started and situated:
+--------------------------------=========================================
+Discord
+Steam
+OBS
+Skype
+Blender
+Google Earth
+FileZilla
+Dropbox
+WireShark
+Audacity
+VLC
+Thunderbird
+GIMP (GNU Image Manipulation Program)
+Krita
+Tor
+Viber
+Calibre
+Runescape
+Android Studio
+HandBrake
+Minecraft
+Spotify
+Slack
+Virtualbox
+
+
+Here's the recommended stuff I'd recommend to research and insert/replace what you dealt with using Windows:
+
+Windows                         Linux Mint Equivalent
+--------------------------------=========================================
+Internet Explorer               Chromium, Tor
+Microsoft Outlook               Thunderbird
+Windows Media Player            VLC Media Player
+Adobe Photoshop                 GIMP, Krita, Inkscape
+OneDrive                        Dropbox
+File-Sharing software           FileZilla, VSFTPD, Transmission
+Skype                           Viber, Telegram, WhatsApp
+Windows executables             WINE, Winetricks, (protontricks for Steam!)
+Drive-partitioning software     GParted, parted
+Disc-burning software           Brasero, Xfburn
+Notepad++                       Atom
+Video Editing Software          OpenShot, Olive
+Amazon Kindle Reader            Calibre
+YouTube                         FreeTube
+Google Maps                     GNOME Maps
+Webcam Recording software       Cheese
+Backup/Restore software         Timeshift
