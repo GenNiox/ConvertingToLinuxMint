@@ -1,0 +1,21 @@
+Link: https://github.com/jakeday/linux-surface/releases
+
+1. Make a 'temp' folder in your Downloads directory.
+    (located in: ~/Downloads where $username is your login username)
+2. Open a Terminal window.
+3. Change your 'temp' directory to the Downloads folder.
+    Command to Run: 'cd "~/temp/Downloads"'
+4. Use git to pull the driver/kernel to the temp folder.
+    Command to Run: 'git clone https://github.com/jakeday/linux-surface'
+    At the time of writing (10DEC2020, this is the current link)
+5. Once completed, change directory into the linux-surface folder.
+    Command to Run: 'cd ./linux-surface" or "cd ~/Downloads/temp/linux_surface'
+6. Add executable functionality to the setup shell file as root.
+    Command to Run: 'sudo chmod +x "~/Downloads/temp/linux-surface/setup.sh"'
+    Enter-in either your user's account password or your root password (depending on permissions)
+7. Once completed, run the setup shell file as root to create the new kernel.
+    Command to Run: "sudo bash ~/Downloads/temp/linux-surface/setup.sh"
+8. Follow the prompts, and once completed, you're all set!
+
+
+- Gen

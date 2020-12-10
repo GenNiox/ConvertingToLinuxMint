@@ -1,0 +1,15 @@
+Links:
+https://openrazer.github.io/
+    (OpenRazer Compatability list)
+https://polychromatic.app/download/
+    (Vendor-choosing Polychromatic download page)
+https://polychromatic.app/download/ubuntu/
+    (Ubuntu-specific Polychromatic download page)
+
+Order to Install:
+OpenRazer (backend daemon [software service])
+PolyChromatic (GUI, user interaction software)
+
+
+
+- Gen

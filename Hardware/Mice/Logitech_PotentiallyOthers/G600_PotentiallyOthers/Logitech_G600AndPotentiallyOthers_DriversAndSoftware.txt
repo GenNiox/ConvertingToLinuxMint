@@ -1,0 +1,20 @@
+Links:
+https://itsfoss.com/piper-configure-gaming-mouse-linux/
+    (Where I caught word that this wonderful software existed!)
+
+Order to Install:
+RatBagD (daemon backend [software service])
+Piper (GUI, user interaction software)
+
+
+1. Open a terminal window.
+2. Update your current Ubuntu repositories to ensure that you download the latest drivers on the first try.
+    Command to Run: 'sudo apt update' and then 'sudo apt upgrade'
+3. Once completed, download ratbagd.
+    Command to Run: 'sudo apt install ratbagd'
+4a. After ratbagd is installed, reboot your system.
+5a. Install the piper software.
+    Command to Run: 'sudo apt install piper'
+4b. Alternatively, you could find ratbagd and piper in the Ubuntu or Linux Mint Software Manager
+
+- Gen
