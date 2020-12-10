@@ -1,0 +1,34 @@
+Links: https://www.protondb.com/
+
+Ever wondered what games are supported or run smoothly on Linux via Steam?
+Well, now you don't have to wonder! There's a site for it! It's called "ProtonDB".
+
+What a wonderful site.. So, here's what you need to know:
+Steam has an.. emulation (for lack of a better term) engine that runs natively on Linux.
+This wonderful-wonderful engine will play almost all of your beloved games flawlessly.. some with minor fixes/tweaks.. and so on and so forth.
+
+..this is where ProtonDB comes in. You use this site to check and see what others are experiencing and what they've done to fix it. This is your pre-purchase research all located conveniently in one site.
+You'll see what builds and hardware others are running as well as when they uploaded their reviews.
+
+Never once has one led me astray. Everything I've looked up has been true to word.
+
+Here's how you enable/disable this wonderful engine:
+
+1. Sign-in to your Steam account.
+2. Go to:
+    Steam -> Settings (a window will pop up) -> Steam Play
+3. Check the "Enable Steam Play for supported titles" checkbox.
+4. Restart the Steam client if needed and sign-in again.
+5. Go to the same window:
+    Steam -> Settings (a window will pop up) -> Steam Play
+6. Check the "Enable Steam Play for all other titles" checkbox.
+7. In the "Run other titles with:" drop-down select the latest (highest-number Proton engine)
+8. Click "OK" and restart your Steam program or reboot your computer and sign-in again.
+9. That's it!
+
+
+Yeah, seriously.. it's that easy.
+Welcome to Linux Gaming!
+
+
+- Gen

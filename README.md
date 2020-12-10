@@ -1,4 +1,4 @@
-Hello all,
+Hello brilliant minds, fellow adventurers, tired, angry, and weary Windows users, and new Linux Mint users,
 
 
 This GitHub site will be a compilation of anything and everything that I have and will run into to assist with
