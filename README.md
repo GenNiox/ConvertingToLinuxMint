@@ -46,3 +46,14 @@ If they currently don't support something right out of the box.. another brillia
 Yeah, this is the kind of community you're joining. Welcome to the wonderful world of Linux.
 Happy Gaming and see you on the battle fields, in the worlds beyond, and deep in the dungeons, friend! ;)
 - Gen (Niox)
+
+P.S. If you ever want a copy of this repository, feel free to download it!
+1. Open a terminal window.
+2. Change your directory to your Downloads folder.
+    Command to Run: 'cd ~/Downloads/'
+3. Download git.
+    Command to Run: 'sudo apt install git'
+4. Download the git repository.
+    Command to Run: 'git clone https://github.com/GenNiox/ConvertingToLinuxMint'
+5. All of the files contained here will be located in your Downloads folder inside of a folder called 'ConvertingToLinuxMint'
+6. Enjoy!
