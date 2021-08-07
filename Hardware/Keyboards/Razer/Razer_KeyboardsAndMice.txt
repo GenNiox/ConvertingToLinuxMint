@@ -10,6 +10,9 @@ Order to Install:
 OpenRazer (backend daemon [software service])
 PolyChromatic (GUI, user interaction software)
 
+NOTE: For Polychromatic (Ubuntu/Mint version), you'll need to run a "sudo apt update" in the middle of the add-aptrepository and install commands.
+Otherwise, you're going to get an error stating that polychromatic either doesn't exist or can't be found.
+
 
 
 - Gen
